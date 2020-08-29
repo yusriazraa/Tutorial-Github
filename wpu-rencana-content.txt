@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 - Javascript
   *ES6
   *Frame work javascript
+ coba-fitur-2
   >react
   >Veu
 - PHP Framwork
