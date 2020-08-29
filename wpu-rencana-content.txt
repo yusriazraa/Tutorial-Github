@@ -1,4 +1,6 @@
 RENCANA KONTEN WPU
 
 - Javascript
+  *ES6
+  *Frame work javascript
 - PHP Framwork
